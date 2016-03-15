@@ -31,5 +31,5 @@
 			<a href="ParticpantInfo.php"><button>Next</button></a>
 			</div>			
 		</body>
-		<?php include("footer.php");?>	
+		
 </html>
